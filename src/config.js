@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+    "collection_address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "137",
@@ -16,7 +16,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "https://lh3.googleusercontent.com/F2IjsBJd4EndzQf0l-lvu2FDWBDgvWbp2RQOsDkDCPWZPhkqbWOdF3Ql0U6xuuxheCbhvregFQ-W17ScRGsGDaBQc8jkowT8tbMCfA=h600",
+    "https://lh3.googleusercontent.com/fH4W4ttyH8oT0h0c-nm2EEtPYBDSHBT0Or8TsQY4YrmGjPgsdOMRNsYCY1LQqZxwHfpwTOhdwmg1vKdSzOq8iQqmOY4CAW02CarJuQ=s0",
   },
 
   // Supported networks - just for your reference
