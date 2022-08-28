@@ -10,7 +10,7 @@ export const CONFIG = {
     "title": "Build a Rig",
 
     // 4. Set your Covalent API Key
-    "api_key": "",
+    "api_key": "ckey_b25474916103424a97dae2f1129",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
