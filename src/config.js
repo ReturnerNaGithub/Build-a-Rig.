@@ -1,22 +1,22 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0xe28e578a5fbE4a2fBE6051DDb414e830E27bf42b",
+    "collection_address": "https://polygonscan.com/address/0x2953399124f0cbb46d2cbacd8a89cf0599974963",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "43114",
+    "block_chain_id": "137",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "Build a Rig",
 
     // 4. Set your Covalent API Key
-    "api_key": "-u ckey_b25474916103424a97dae2f1129:",
+    "api_key": "",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "https://miro.medium.com/max/1168/0*OJ-qb5G6i863msBB.png",
+    "https://lh3.googleusercontent.com/F2IjsBJd4EndzQf0l-lvu2FDWBDgvWbp2RQOsDkDCPWZPhkqbWOdF3Ql0U6xuuxheCbhvregFQ-W17ScRGsGDaBQc8jkowT8tbMCfA=h600",
   },
 
   // Supported networks - just for your reference
