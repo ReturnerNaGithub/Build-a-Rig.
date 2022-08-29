@@ -10,13 +10,13 @@ export const CONFIG = {
     "title": "Build a Rig",
 
     // 4. Set your Covalent API Key
-    "api_key": "ckey_b25474916103424a97dae2f1129:",
+    "api_key": "ckey_10fb274db76a4f3eba76690166d",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 6. (Optional) Set your banner image
-    "https://lh3.googleusercontent.com/fH4W4ttyH8oT0h0c-nm2EEtPYBDSHBT0Or8TsQY4YrmGjPgsdOMRNsYCY1LQqZxwHfpwTOhdwmg1vKdSzOq8iQqmOY4CAW02CarJuQ=s0",
+    "https://i.imgur.com/T9ZplCH.jpg",
   },
 
   // Supported networks - just for your reference
